@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="yes_imf" type="id">d</item>
+    <item name="image_view" type="id">s</item>
+    <item name="email_et" type="id">email_et</item>
+    <item name="kod_et" type="id">kod_et</item>
+    <item name="yes_im" type="id">yes_im</item>
+    <item name="text_tv" type="id">text_tv</item>
+    <item name="text_2" type="id">text_2</item>
+    <item name="lock_image" type="id">lock_image</item>
+    <item name="login_in" type="id">login_in</item>
+</resources>
